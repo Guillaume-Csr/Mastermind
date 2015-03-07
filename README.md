@@ -11,6 +11,6 @@ Software used : Qt Creator
   Last update : 27-12-2014
 </pre>
 
-<p>More details about Mastermind game : <a href="http://en.wikipedia.org/wiki/Mastermind_%28board_game%29">here</a></p>
+<p>More details about Mastermind game <a href="http://en.wikipedia.org/wiki/Mastermind_%28board_game%29">here</a></p>
 
 Enjoy :)
