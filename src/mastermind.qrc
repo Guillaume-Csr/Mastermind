@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../images/rsz_black_arrow.png</file>
+        <file>../images/rsz_circle-blue.png</file>
+        <file>../images/rsz_circle-green.png</file>
+        <file>../images/rsz_circle-grey.png</file>
+        <file>../images/rsz_circle-orange.png</file>
+        <file>../images/rsz_circle-purple.png</file>
+        <file>../images/rsz_circle-red.png</file>
+        <file>../images/rsz_circle-tan.png</file>
+        <file>../images/rsz_circle-yellow.png</file>
+        <file>../images/black_arrow.png</file>
+        <file>../images/circle-blue.png</file>
+        <file>../images/circle-green.png</file>
+        <file>../images/circle-grey.png</file>
+        <file>../images/circle-orange.png</file>
+        <file>../images/circle-purple.png</file>
+        <file>../images/circle-red.png</file>
+        <file>../images/circle-tan.png</file>
+        <file>../images/circle-yellow.png</file>
+    </qresource>
+</RCC>
