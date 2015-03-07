@@ -154,7 +154,7 @@ void MainWindow::exit()
 void MainWindow::about()
 {
     QMessageBox *msgBox = new QMessageBox;
-    msgBox->setText(tr("Danick is the creator of Mastermind. He's studing at the Cegep. This game is designed with Qt 5.0 in c++. Fair enough. You must try one game of Mastermind... it's incredibly awesome!"));
+    msgBox->setText(tr("Mastermind board game (basic version) created by Danick. This game is designed with Qt 5.0 in C++. Fair enough. You must try one game of Mastermind... it's incredibly awesome!"));
     msgBox->setIcon(QMessageBox::Warning);
     msgBox->setStandardButtons(QMessageBox::Ok);
     msgBox->exec();
