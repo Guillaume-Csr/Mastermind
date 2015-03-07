@@ -1,6 +1,6 @@
 <h1>Mastermind</h1>
 
-<p>Mastermind game with Drag and Drop functionality</p> 
+<h2>Mastermind game with Drag and Drop functionality</h2> 
 
 <p>Goal : Create a mastermind board game in Qt (basic version)</p>
 
