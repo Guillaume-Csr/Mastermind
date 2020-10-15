@@ -3,7 +3,7 @@
 
 #include "boarddesign.h"
 #include "boardbutton.h"
-#include "boardSecret.h"
+#include "boardSecret.h" // change Secret -> secret
 
 #include "codinghole.h"
 #include "holereview.h"
